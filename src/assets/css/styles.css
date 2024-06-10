@@ -139,7 +139,7 @@ body {
    flex: 1;
 }
 .song .title .name {
-   font-size: 1.7rem;
+   font-size: 1.5rem;
    font-weight: 400;
 }
 .song .title .artist {
@@ -193,7 +193,7 @@ body {
    margin-bottom: 1rem;
 }
 .dashboard .header h2 {
-   font-size: 3.6rem;
+   font-size: 2.8rem;
    font-weight: 500;
    margin-bottom: 1rem;
 }
@@ -206,7 +206,7 @@ body {
    text-overflow: ellipsis;
 }
 .dashboard .header h3 {
-   font-size: 1.8rem;
+   font-size: 1.6rem;
    font-weight: 400;
 }
 .dashboard .middle {
@@ -223,7 +223,7 @@ body {
 }
 .progress .progress-bar {
    position: relative;
-   width: 10%;
+   width: 0%;
    height: inherit;
    transition: .3s;
    border-radius: inherit;

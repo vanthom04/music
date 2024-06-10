@@ -1,4 +1,4 @@
-import app from './app.js';
-import { songs } from './songs.js';
+import app from './app.js'
+import { songs } from './songs.js'
 
-app.start(songs);
+app.start(songs)
